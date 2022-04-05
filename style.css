@@ -1,0 +1,25 @@
+#header {
+    height: 10vh;
+    background-color: blue;
+    color: white;
+}
+#shadow {
+    text-shadow: 2px 2px rgb(38, 37, 37);
+}
+a {
+    text-decoration: none;
+}
+#footer {
+    height: 13vh;
+    background-color: black;
+    color: red;
+}  
+.orange {
+    color: orange;
+}
+.yellow {
+    color: yellow;
+}
+#green {
+    color: green;
+}
